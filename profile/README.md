@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-🌈 Fly to mountains, beaches. Come and **Plan A Trip** with us.
+🌈 Fly to mountains, beaches. Come and **Plan A Trip** with us.  
+💬 [Start Discussion](https://github.com/Plan-A-Trip/.github/discussions/new) to get access to org repos and contribute.  
 
 **Just started** 
 
